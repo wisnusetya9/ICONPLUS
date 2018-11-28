@@ -1,0 +1,5 @@
+File Di upload kapan
+searching auto complete
+jadi satu tabel POP SBU JKT,Tambah field area dan tipe
+stelah cyberkey ditambah 
+FOT = RACK PERANGKAT, PS/PSU = POWERSUPPLY, FOC=RACK ODF

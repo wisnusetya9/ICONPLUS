@@ -1,0 +1,29 @@
+ RECTIFIER  I
+
+Merk_Rectifier 			= Hasil_Merk_Rectifier = Acuan_Merk_Rectifier = Keterangan_Merk_Rectifier
+
+Type_Rectifier 			= Hasil_Type_Rectifier = Acuan_Type_Rectifier = Keterangan_Type_Rectifier
+
+Capasitas_Rectifier 		= Hasil_Capasitas_Rectifier = Acuan_Capasitas_Rectifier = Keterangan_Capasitas_Rectifier
+
+Type_Modul 			= Hasil_Type_Modul = Acuan_Type_Modul = Keterangan_Type_Modul
+
+Jumlah_Modul 			= Hasil_Jumlah_Modul = Acuan_Jumlah_Modul = Keterangan_Jumlah_Modul 
+
+Capasitas_Modul 		= Hasil_Capasitas_Modul = Acuan_Capasitas_Modul = Keterangan_Capasitas_Modul
+
+Tegangan_Input_AC 		= Hasil_Tegangan_AC = Acuan_Tegangan_AC = Keterangan_Tegangan_AC
+
+Floating 			= Hasil_Floating = Acuan_Floating = Keterangan_Floating
+
+Equalizing   			= Hasil_Equalizing = Acuan_Equalizing = Keterangan_Equalizing
+
+Manual   			= Hasil_Manual  = Acuan_Manual = Keterangan_Manual
+
+Indikasi_Sinyal_ke_SNMP		= Hasil_Sinyal_SNMP = Acuan_Sinyal_SNMP = Keterangan_Sinyal_SNMP
+
+Alarm				= Hasil_Alarm = Acuan_Alarm = Keterangan_Alarm
+
+Beban_Rectifier 		= Hasil_Rectifier = Acuan_Rectifier = Keterangan_Rectifier
+
+Utilisasi 			= Hasil_Utilisasi  = Acuan_Utilisasi  = Keterangan_Utilisasi 
